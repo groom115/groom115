@@ -3,7 +3,9 @@
 
 - 📫 How to reach me **shyamabhishek115@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YY9ZuZSEJxlQaZXCcth43pKPTndhgg9R/view?usp=share_link](https://drive.google.com/file/d/1YY9ZuZSEJxlQaZXCcth43pKPTndhgg9R/view?usp=share_link)
+- 📄 Resume : https://drive.google.com/file/d/1GQLarJkdHSXACJauz2ttvN5XM5aM9axz/view?usp=drive_link
+  
+- Portfolio: https://abhishekshyam.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
