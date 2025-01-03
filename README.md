@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **shyamabhishek115@gmail.com**
 
-- 📄 Resume : https://drive.google.com/file/d/1GQLarJkdHSXACJauz2ttvN5XM5aM9axz/view?usp=drive_link
+- 📄 Resume : https://drive.google.com/file/d/16c6MyWX1tCMYj-tu7FIGgD-gpjkIA2wQ/view?usp=sharing
   
 - Portfolio: https://abhishekshyam.netlify.app/
 
